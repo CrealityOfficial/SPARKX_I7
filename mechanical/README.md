@@ -11,6 +11,7 @@ STEP AP203 models for SPARKX I7. / SPARKX I7 结构模型，格式为 STEP AP203
 | 3.1 | Accessories / 配件 | [Nozzle cleaner / 喷嘴清洁件](step/nozzle-cleaner.step) | 0.76 MiB |
 | 3.2 | Accessories / 配件 | [Silicone sleeve / 硅胶套](step/silicone-sleeve.step) | 1.58 MiB |
 | 3.3 | Accessories / 配件 | [Cutter assembly / 切刀组件](step/cutter-assembly.step) | 0.35 MiB |
+| 3.4 | Accessories / 配件 | [Hotend nozzle / 热端喷嘴](step/hotend-nozzle.step) | 0.42 MiB |
 | 4 | Full machine / 整机 | [SPARKX I7 assembly / SPARKX I7 整机模型](step/sparkx-i7-assembly.stp) | 49.77 MiB |
 
 Open with a CAD application supporting STEP AP203. / 使用支持 STEP AP203 的 CAD 软件打开。

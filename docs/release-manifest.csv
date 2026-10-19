@@ -11,4 +11,5 @@ mechanical,Toolhead front cover,mechanical/step/toolhead-front-cover.step,STEP A
 mechanical,Nozzle cleaner,mechanical/step/nozzle-cleaner.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
 mechanical,Silicone sleeve,mechanical/step/silicone-sleeve.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
 mechanical,Cutter assembly,mechanical/step/cutter-assembly.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
+mechanical,Hotend nozzle,mechanical/step/hotend-nozzle.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Hotend nozzle model
 mechanical,SPARKX I7 full-machine assembly,mechanical/step/sparkx-i7-assembly.stp,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: Siemens NX 10.0
