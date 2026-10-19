@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v1.0.0 — 2026-10-20
 
 - Add six STEP mechanical models, including the full-machine assembly.
 - Add seven board interface and pinout images.

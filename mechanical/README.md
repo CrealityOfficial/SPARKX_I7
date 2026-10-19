@@ -13,8 +13,6 @@ STEP AP203 models for SPARKX I7. / SPARKX I7 结构模型，格式为 STEP AP203
 | 3.3 | Accessories / 配件 | [Cutter assembly / 切刀组件](step/cutter-assembly.step) | 0.35 MiB |
 | 4 | Full machine / 整机 | [SPARKX I7 assembly / SPARKX I7 整机模型](step/sparkx-i7-assembly.stp) | 49.77 MiB |
 
-Rotating parts and the fan share assembly 1. / 旋转件和风扇共用编号 1 的装配体。
-
 Open with a CAD application supporting STEP AP203. / 使用支持 STEP AP203 的 CAD 软件打开。
 
 [File inventory / 文件索引](../docs/release-manifest.csv)
