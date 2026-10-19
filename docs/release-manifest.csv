@@ -1,0 +1,14 @@
+module,component,path,format,compatible_product,required_tool,license,notes
+hardware,MainBoard,hardware/assembly/mainboard-cn.png,PNG,SPARKX I7,PNG image viewer,OCL v1.1,Mainboard interfaces (Chinese)
+hardware,MainBoard,hardware/assembly/mainboard-en.png,PNG,SPARKX I7,PNG image viewer,OCL v1.1,Mainboard interfaces (English)
+hardware,MainBoard,hardware/assembly/mainboard-pinout.png,PNG,SPARKX I7,PNG image viewer,OCL v1.1,Mainboard pinout
+hardware,ExtruderBoard,hardware/assembly/extruderboard-cn.png,PNG,SPARKX I7,PNG image viewer,OCL v1.1,Extruder board interfaces (Chinese)
+hardware,ExtruderBoard,hardware/assembly/extruderboard-en.png,PNG,SPARKX I7,PNG image viewer,OCL v1.1,Extruder board interfaces (English)
+hardware,ExtruderBoard,hardware/assembly/extruderboard-pinout.png,PNG,SPARKX I7,PNG image viewer,OCL v1.1,Extruder board pinout
+hardware,Y-axis vibration compensator,hardware/assembly/y-axis-vibration-compensator.png,PNG,SPARKX I7,PNG image viewer,OCL v1.1,Y-axis vibration compensator interfaces
+mechanical,Front shell simplified assembly,mechanical/step/front-shell-simple-assembly.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
+mechanical,Toolhead front cover,mechanical/step/toolhead-front-cover.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
+mechanical,Nozzle cleaner,mechanical/step/nozzle-cleaner.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
+mechanical,Silicone sleeve,mechanical/step/silicone-sleeve.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
+mechanical,Cutter assembly,mechanical/step/cutter-assembly.step,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: SolidWorks 2019
+mechanical,SPARKX I7 full-machine assembly,mechanical/step/sparkx-i7-assembly.stp,STEP AP203,SPARKX I7,CAD application supporting STEP AP203 import,OCL v1.1,Exporter: Siemens NX 10.0

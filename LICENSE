@@ -1,0 +1,50 @@
+SPARKX I7 — License scope / 授权范围
+
+Licensor / 授权主体：深圳市创想三维科技股份有限公司（Creality）
+Copyright © 2026 深圳市创想三维科技股份有限公司
+
+The project-authored materials below are licensed by the company named above.
+以下本项目自有资料由上述公司按相应许可证授权。
+
+1. Mechanical and electronic hardware materials
+
+Mechanical models and electronic hardware reference images under mechanical/
+and hardware/ are licensed under the Open Community License (OCL v1.1).
+No add-on conditions apply. Full text: LICENSES/OCL-1.1.txt.
+
+2. Documentation
+
+Project-authored Markdown documents, including all README files and
+CHANGELOG.md, and the file inventory docs/release-manifest.csv are licensed
+under Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0). Full text: LICENSES/CC-BY-NC-4.0.txt.
+Images and models linked or embedded in these documents retain their own
+licenses; the documentation license does not replace them.
+
+3. Exceptions
+
+Separately identified third-party materials retain their original licenses
+and notices. License texts in LICENSES/ are reproduced without modification
+and are not relicensed under the documentation license.
+
+一、机械结构及电子硬件资料
+
+mechanical/ 中的结构模型和 hardware/ 中的硬件参考图片采用
+Open Community License（OCL v1.1），未采用许可证附加条款。
+全文见 LICENSES/OCL-1.1.txt。
+
+二、说明文档
+
+本项目编写的 Markdown 文档（包括各级 README 和 CHANGELOG.md）及
+文件索引 docs/release-manifest.csv 采用知识共享署名—非商业性使用
+4.0 国际许可协议（CC BY-NC 4.0）。全文见 LICENSES/CC-BY-NC-4.0.txt。
+文档中引用或嵌入的图片和模型保留各自授权，不随文档改用 CC BY-NC 4.0。
+
+三、例外
+
+单独标明的第三方资料保留原始许可证及声明。LICENSES/ 中的许可证全文
+未经修改，不改用文档许可证。
+
+Sources / 协议来源:
+https://github.com/OpenCommunityLicence/OpenCommunityLicence/blob/d5c4e85d729b590fa2a7b3393c4b9148bb31211f/LICENSE
+https://creativecommons.org/licenses/by-nc/4.0/

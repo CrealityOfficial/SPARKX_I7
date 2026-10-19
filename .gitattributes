@@ -1,0 +1,25 @@
+* text=auto
+
+*.md text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.license text eol=lf
+LICENSE text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
+*.7z binary
+
+# Preserve exported models without text conversion or line-by-line diffs.
+*.step binary
+*.STEP binary
+*.stp binary
+*.STP binary
+
+# Preserve the official license text, including its final blank line.
+LICENSES/CC-BY-NC-4.0.txt whitespace=-blank-at-eof
