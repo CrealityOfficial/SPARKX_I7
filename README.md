@@ -8,8 +8,8 @@ Open materials repository for SPARKX I7.
 
 | Directory | Purpose |
 | --- | --- |
-| [mechanical/](mechanical/README.md) | Six STEP models |
-| [hardware/](hardware/README.md) | Seven board interface and pinout images |
+| [mechanical/](mechanical/README.md) | Mechanical models |
+| [hardware/](hardware/README.md) | Board interfaces and pinouts |
 | [docs/](docs/README.md) | File inventory |
 | [LICENSES/](LICENSES/README.md) | License text and upstream source |
 

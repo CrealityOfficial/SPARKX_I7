@@ -8,8 +8,8 @@ SPARKX I7 开源资料仓库。
 
 | 目录 | 用途 |
 | --- | --- |
-| [mechanical/](mechanical/README.md) | 六个 STEP 模型 |
-| [hardware/](hardware/README.md) | 七张板卡接口及引脚定义图片 |
+| [mechanical/](mechanical/README.md) | 结构模型 |
+| [hardware/](hardware/README.md) | 板卡接口及引脚定义 |
 | [docs/](docs/README.md) | 文件索引 |
 | [LICENSES/](LICENSES/README.md) | 许可证全文及上游来源 |
 
